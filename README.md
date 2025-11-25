@@ -1,6 +1,6 @@
 #web_ticket
 
-Projeto de FrontEnd ADS 2MA - Sistema de Controle de Atendimento - Laboratório
+Projeto de FrontEnd ADS 2MA - Sistema para Controle de Atendimento - Laboratório
 
 Alunos:
 
@@ -13,3 +13,4 @@ João Lucas Ferreira Souza
 Prof:
 
 João Ferreira da Silva Junior
+
