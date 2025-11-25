@@ -8,4 +8,5 @@ Rafael Bernardes Pereira Bezerra
 
 Daniel Victor Xavier Tavares
 
+João Lucas Ferreira Souza
 
