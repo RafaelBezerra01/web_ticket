@@ -1,0 +1,67 @@
+body {
+    font-family: Arial, sans-serif;
+    padding: 20px;
+    background-color: #f4f4f9;
+}
+
+h1, h2 {
+    color: #333;
+}
+
+section {
+    margin-bottom: 30px;
+    padding: 20px;
+    border: 1px solid #ddd;
+    background-color: #fff;
+    border-radius: 8px;
+}
+
+button {
+    padding: 10px 15px;
+    margin: 5px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+    color: white;
+}
+
+button:hover {
+    opacity: 0.9;
+}
+
+
+.btn-sp { background-color: #dc3545; } 
+.btn-sg { background-color: #007bff; } 
+.btn-se { background-color: #ffc107; color: #333;} 
+.btn-descartar { background-color: #6c757d; } 
+
+/* E
+#tabela-painel {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 15px;
+}
+
+#tabela-painel th, #tabela-painel td {
+    border: 1px solid #ddd;
+    padding: 10px;
+    text-align: left;
+}
+
+#tabela-painel th {
+    background-color: #e9ecef;
+}
+
+.guiche-container {
+    display: flex;
+    align-items: center;
+    gap: 15px;
+    margin-bottom: 15px;
+}
+
+.nota {
+    font-style: italic;
+    color: #666;
+    margin-top: 10px;
+}
