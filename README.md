@@ -2,7 +2,7 @@
 
 Projeto de FrontEnd ADS 2MA - Sistema para Controle de Atendimento - Laboratório
 
-Alunos:
+Grupo de Alunos:
 
 Rafael Bernardes Pereira Bezerra
 
@@ -13,4 +13,5 @@ João Lucas Ferreira Souza
 Prof:
 
 João Ferreira da Silva Junior
+
 
